@@ -71,6 +71,7 @@ Recursions: 1362
 - This has not been implemented very well, but it is possible if you would like to try.
 
 ### Steps:
-- Edit one of the txt files to contain your sudoku
-- Each row is separated by a new line, and column by a space
-- Valid numbers are 0-9, where 0 is a blank space
+1. Edit one of the txt files to contain your sudoku.
+2. Each row is separated by a new line, and column by a space.
+3. Valid numbers are 0-9, where 0 is a blank space.
+4. Run the program with your file. The option number corresponds to the file name's number.
