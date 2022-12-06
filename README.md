@@ -1,6 +1,10 @@
 # Sudoku Project
 - Built in May 23, 2021
 
+## Algorithm Involved
+- Recursive backtracking algorithm
+- In current empty space, try the next valid number, then move on to next empty space with a recursive call. If we reach an empty space with no valid numbers left, effectively "undo" by returning from current recursive call.
+
 ## Sample run
 Run the following command in terminal:
 
