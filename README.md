@@ -1,5 +1,6 @@
 # Sudoku Project
 - Built in May 23, 2021
+- Final Project for Code In Place 2021 by Stanford University
 
 ## Algorithm Involved
 - Recursive backtracking algorithm
